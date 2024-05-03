@@ -1,1 +1,1 @@
-# GPU_CUDA_OP
+# GPU_Optimizations (CUDA C)
